@@ -59,3 +59,4 @@ HELP.md
 .vscode/
 
 src/main/resources/google/*
+.metadata
